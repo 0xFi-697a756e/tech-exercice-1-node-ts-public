@@ -1,4 +1,4 @@
-# tech-exercice-bfs-node-ts
+# tech-exercice-1-node-ts
 
 ## Prompt
 
