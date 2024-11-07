@@ -2,7 +2,7 @@
 
 ## Prompt
 
-Consider a decentralised exchange protocol were tradable pairs are given by a graph: a currency `A` can be traded for currency `B` if `A` and `B` are linked by and edge. Knowing the list of tradable pairs, develop an algorithm to find the shortest route between a currency `A` and a currency `B`.
+Consider a decentralised exchange protocol where tradable pairs are given by a graph: a currency `A` can be traded for currency `B` if `A` and `B` are linked by and edge. Knowing the list of tradable pairs, develop an algorithm to find the shortest route between a currency `A` and a currency `B`.
 
 ## Question 1
 
